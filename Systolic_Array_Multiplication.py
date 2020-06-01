@@ -1,6 +1,6 @@
 from queue import Queue
 
-import numpy as np
+import numpy as np 
 
 
 # https://www.youtube.com/watch?v=cmy7LBaWuZ8 for visualization
